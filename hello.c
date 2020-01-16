@@ -7,6 +7,8 @@ Date: 2020/01/14
 int main(void) {
 	printf("Sara Hasan!\n");
 	printf("English Major\n");
-	return 0;
+	
+	printf("Nick Mancuso\n");
+	printf("Mechanical Engineer")
+;	return 0;
 }
-
