@@ -6,6 +6,7 @@ Date: 2020/01/14
 
 int main(void) {
 	printf("Hello Sara Hasan!\n");
+	printf("English Major\n")
 	return 0;
 }
 
